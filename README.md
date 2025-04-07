@@ -1,5 +1,10 @@
 # FastAPI User Posts Application
 
+obrienddev@gmail.com
++380 98 932 77 31
+https://t.me/devobrien
+
+
 Веб-приложение на основе FastAPI с функционалом аутентификации и управления постами пользователей, следующее шаблону MVC.
 
 ## Структура проекта
